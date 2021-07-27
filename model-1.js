@@ -11,3 +11,7 @@ var hasInjuryPotential = true;
 var musclesInvolved = ["quads", "hamstrings", "lats", "traps"];
 var movementPatterns = ["bend", "hinge", "pull"];
 var possibleInjuries = ["fractures", "muscle ruptures", "low back injury"];
+var deadLift = {
+  benefits: "core stability",
+  objectUsed:  "olympicBar",
+};
