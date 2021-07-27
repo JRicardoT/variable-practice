@@ -8,3 +8,6 @@ var numberOfReps = "8";
 var isComplex = true;
 var hasDifferentSteps = true;
 var hasInjuryPotential = true;
+var musclesInvolved = ["quads", "hamstrings", "lats", "traps"];
+var movementPatterns = ["bend", "hinge", "pull"];
+var possibleInjuries = ["fractures", "muscle ruptures", "low back injury"];
