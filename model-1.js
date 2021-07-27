@@ -5,3 +5,6 @@ var olympicBar = "45";
 var numberOfPlates = "4";
 var weightOfPlates = "45";
 var numberOfReps = "8";
+var isComplex = true;
+var hasDifferentSteps = true;
+var hasInjuryPotential = true;
